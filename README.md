@@ -1,4 +1,3 @@
-![AWS S3 Static Website Hosting Architecture](attachment:s3 static webhosting - awsarchitecture.png)
 
 # 🚀 Host Your Static Website with AWS S3 in a Few Easy Steps! 🌐
 
